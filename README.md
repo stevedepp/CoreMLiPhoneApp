@@ -154,10 +154,11 @@ https://arxiv.org/abs/1808.08230
 
 #
 
-> On the right hand side, *(top video below)*, I’m recording my iPhone.  It’s untethered from my computer as it runs the model. So, start the model here.  It’s going to classify a piano, no problem.  No problem with the book.  Seems the scores *(in the bottom video below)* are saying it’s seeing the salt and pepper shaker, but just can’t label it.  So, no go with the next items, which is the brownies.  I put that in there to confuse it with the book. No problem with the knife, right away.  Or keys; it got those every time.  It almost never got this next item; it almost never got the camera.  And this next one is the one I thought was most interesting: it’s a collection of papers that were all ruffled together and … (let’s see …  just can’t find the camera) … the papers, it actually found the papers even though I mixed the papers up quite a bit (versus their images in the training set). Tried to move them around a little bit: there you go.   
+> On the right hand side, *(top video "iphone.mp4" below)*, I’m recording my iPhone.  It’s untethered from my computer as it runs the model. So, start the model here.  It’s going to classify a piano, no problem.  No problem with the book.  Seems the scores *(in the bottom video "XcodeInference.mp4" below)* are saying it’s seeing the salt and pepper shaker, but just can’t label it.  So, no go with the next items, which is the brownies.  I put that in there to confuse it with the book. No problem with the knife, right away.  Or keys; it got those every time.  It almost never got this next item; it almost never got the camera.  And this next one is the one I thought was most interesting: it’s a collection of papers that were all ruffled together and … (let’s see …  just can’t find the camera) … the papers, it actually found the papers even though I mixed the papers up quite a bit (versus their images in the training set). Tried to move them around a little bit: there you go.   
 
 <img width="1074" alt="image" src="https://user-images.githubusercontent.com/38410965/116115829-85791480-a688-11eb-82f8-639530d0d192.png">
 
-https://user-images.githubusercontent.com/38410965/116114737-a3924500-a687-11eb-9cf2-f22757019654.mp4 
+https://user-images.githubusercontent.com/38410965/116115967-a0e41f80-a688-11eb-8ff6-d7ca9d419334.mp4
 
-https://user-images.githubusercontent.com/38410965/116114818-b7d64200-a687-11eb-9809-8a7608bfa536.mp4
+https://user-images.githubusercontent.com/38410965/116116130-cd983700-a688-11eb-93cb-9dc99047be66.mp4
+
