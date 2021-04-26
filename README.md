@@ -162,3 +162,6 @@ https://user-images.githubusercontent.com/38410965/116115967-a0e41f80-a688-11eb-
 
 https://user-images.githubusercontent.com/38410965/116116130-cd983700-a688-11eb-93cb-9dc99047be66.mp4
 
+#
+
+> As usual, Apple made the process very easy. Thank you for watching.  
