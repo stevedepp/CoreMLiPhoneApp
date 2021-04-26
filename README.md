@@ -167,4 +167,4 @@ https://user-images.githubusercontent.com/38410965/116116130-cd983700-a688-11eb-
 > As usual, Apple made the process very easy. Thank you for watching.  
 
 
-Note: `ImageClassifierPlayground.playground` appears as a folder in GitHub and as an Xcode app on a Mac.  This is understandable since the code has folder operations build into the X code representation (as shown in the demo video, and as you'd see in when loading the code in X code.)
+Note: `ImageClassifierPlayground.playground` appears as a folder in GitHub and as an Xcode app on a Mac.  This is understandable since the code has folder operations build into the X code representation (as shown in the demo video, and as you'd see in when loading the code in X code).
