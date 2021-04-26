@@ -1,8 +1,31 @@
 # CoreMLiPhoneApp
-tgif project: a day to develop my first iPhone app that identifies objects
-(please click on movie to hear sound)
+
+TGIF project: A day to develop my first iPhone app that identifies objects
+
+The demo video is here.  To hear sound, click on the video, or follow along with slides and transcript below the video.
 
 ![demo](https://user-images.githubusercontent.com/38410965/111802199-1bf53180-88a4-11eb-97d2-886bbd716a3e.mov)
+
+#
+
+**Steve Depp**
+462-55
+
+Demo of:
+- Apple
+- Apple Core ML
+- Apple Create ML
+- Apple Vision
+
+Need:
+- Developers license
+- X code
+- iPhone
+- 3 lines of code
+
+Skill level:
+- Never used X code
+- Never exposed to any Apple hardware development 
 
 #
 
@@ -117,4 +140,26 @@ https://arxiv.org/abs/1808.08230
 
 <img width="712" alt="image" src="https://user-images.githubusercontent.com/38410965/116107402-0207f500-a681-11eb-922e-f19510d81093.png">
 
+#
 
+> You can validate the training, but I didn’t.  There you go.   
+
+<img width="1072" alt="image" src="https://user-images.githubusercontent.com/38410965/116109322-accce300-a682-11eb-8d90-d00508030bb4.png">
+
+#
+
+> OK. And the results, the test results are contained here:  So, up here, you have the various labels and comments for each one of the classes, and they’re kept in a plist.      
+ 
+<img width="724" alt="image" src="https://user-images.githubusercontent.com/38410965/116111626-d424af80-a684-11eb-959c-46d629249229.png">
+
+#
+
+> On the right hand side, *(top video below)*, I’m recording my iPhone.  It’s untethered from my computer as it runs the model. So, start the model here.  It’s going to classify a piano, no problem.  No problem with the book.  Seems the scores *(in the bottom video below)* are saying it’s seeing the salt and pepper shaker, but just can’t label it.  So, no go with the next items, which is the brownies.  I put that in there to confuse it with the book. No problem with the knife, right away.  Or keys; it got those every time.  It almost never got this next item; it almost never got the camera.  And this next one is the one I thought was most interesting: it’s a collection of papers that were all ruffled together and … (let’s see …  just can’t find the camera) … the papers, it actually found the papers even though I mixed the papers up quite a bit (versus their images in the training set). Tried to move them around a little bit: there you go.   
+
+
+https://user-images.githubusercontent.com/38410965/116112485-9a07dd80-a685-11eb-84ad-150f958595fe.mov
+
+
+| Tables        | Are           |
+| ------------- |:-------------:|
+| https://user-images.githubusercontent.com/38410965/116114737-a3924500-a687-11eb-9cf2-f22757019654.mp4 | https://user-images.githubusercontent.com/38410965/116114818-b7d64200-a687-11eb-9809-8a7608bfa536.mp4 |
