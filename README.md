@@ -148,7 +148,7 @@ https://arxiv.org/abs/1808.08230
 
 #
 
-> OK. And the results, the test results are contained here:  So, up here, you have the various labels and comments for each one of the classes, and they’re kept in a plist.      
+> OK. And the results, the test results are contained here:  So, up here, you have the various labels and comments for each one of the classes, and they’re kept in a [plist](https://github.com/stevedepp/CoreMLiPhoneApp/blob/main/CreateML%20assets/FlowerShop/Product%20Resources/ProductCatalog.plist).      
  
 <img width="724" alt="image" src="https://user-images.githubusercontent.com/38410965/116111626-d424af80-a684-11eb-959c-46d629249229.png">
 
