@@ -55,6 +55,66 @@ https://apple.github.io/turicreate/docs/userguide/object_detection/export-coreml
 
 <img width="1051" alt="image" src="https://user-images.githubusercontent.com/38410965/116097998-b3565d00-a678-11eb-8ff1-ce009e1d1403.png">
 
+#
+
+> ... and a little bit of time reading some meaningful research that applied what Frank and the gang are doing.
+
+https://arxiv.org/abs/1808.08230
+
+<img width="1047" alt="image" src="https://user-images.githubusercontent.com/38410965/116100717-34165880-a67b-11eb-8d22-ca6e83b41b7d.png">
+
+#
+
+> Like Frank, in the end, I wrote three lines of code.  That’s because training leans heavily on transfer learning from models that are optimized for Apple hardware.  Three lines of code means that the model takes up only 102 kilobytes of disk.  
+
+<img width="651" alt="image" src="https://user-images.githubusercontent.com/38410965/116101084-88b9d380-a67b-11eb-8234-655473d55f41.png">
+
+#
+
+> My data are contained in 11 classes of objects: 16 photos I took of a book, 16 photos I took of brownie mix, 17 of a camera, 17 of an ice cream sandwich, 13 of keys, 17 of crumpled sheet music, 13 each of my identical twins (which didn’t work out very well in classification), 12 of a piano, 19 photos of salt and pepper shakers. 
+
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102126-6bd1d000-a67c-11eb-9773-6814ad1d87ce.png">
+
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102223-886e0800-a67c-11eb-9d94-31c2eb2c0708.png">
+
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102273-94f26080-a67c-11eb-9900-b5ca6c99d0f1.png">
+
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102323-9f145f00-a67c-11eb-9d6a-523489279800.png">
+
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102368-a89dc700-a67c-11eb-9635-679b8e2b96ec.png">
+
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102412-afc4d500-a67c-11eb-9ad7-da031c297a8f.png">
+
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102441-b6534c80-a67c-11eb-8b41-84887680de14.png">
+
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102464-bc492d80-a67c-11eb-8449-1568b8023f00.png">
+
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102510-c539ff00-a67c-11eb-977a-ab519390e128.png">
+
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102539-cbc87680-a67c-11eb-8aab-2fa99aa5f3c7.png">
+
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102569-d2ef8480-a67c-11eb-8603-fdcccab14dfa.png">
+
+#
+
+> To load the code, err, to load the data, you run the code,  
+
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102861-10541200-a67d-11eb-9258-1f016fff7daf.png">
+
+> ... drag and drop, … drag and drop, (there we go), drag and drop ... 
+
+<img width="573" alt="image" src="https://user-images.githubusercontent.com/38410965/116103194-5dd07f00-a67d-11eb-8b8b-e7a04b65ccb6.png">
+
+<img width="689" alt="image" src="https://user-images.githubusercontent.com/38410965/116103366-835d8880-a67d-11eb-8cd1-e2f835d43103.png">
+
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/38410965/116103411-8e181d80-a67d-11eb-8bf6-ec796ab673c7.png">
+
+<img width="692" alt="image" src="https://user-images.githubusercontent.com/38410965/116103486-a1c38400-a67d-11eb-8b3c-561ab90244ed.png">
+
+> ... and watch the training.
+
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/38410965/116103601-bd2e8f00-a67d-11eb-9f18-dca0fc2d2a07.png">
+
+![Uploading image.png…]()
 
 
-<img width="1048" alt="image" src="https://user-images.githubusercontent.com/38410965/116097174-e51af400-a677-11eb-9e34-afb8fa04c516.png">
