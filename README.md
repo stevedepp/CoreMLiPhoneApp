@@ -120,7 +120,7 @@ https://arxiv.org/abs/1808.08230
 
 #
 
-> To load the code, err, to load the data, you run the code,  
+> To load the code, err, to load the data, you run the [code](https://github.com/stevedepp/CoreMLiPhoneApp/tree/main/CreateML%20assets/Training/ImageClassifierPlayground.playground) *[see note below]*,  
 
 <img width="1110" alt="image" src="https://user-images.githubusercontent.com/38410965/116102861-10541200-a67d-11eb-9258-1f016fff7daf.png">
 
@@ -165,3 +165,6 @@ https://user-images.githubusercontent.com/38410965/116116130-cd983700-a688-11eb-
 #
 
 > As usual, Apple made the process very easy. Thank you for watching.  
+
+
+Note: `ImageClassifierPlayground.playground` appears as a folder in GitHub and as an Xcode app on a Mac.  This is understandable since the code has folder operations build into the X code representation (as shown in the demo video, and as you'd see in when loading the code in X code.)
