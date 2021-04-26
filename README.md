@@ -12,4 +12,13 @@ tgif project: a day to develop my first iPhone app that identifies objects
 
 <img width="1023" alt="image" src="https://user-images.githubusercontent.com/38410965/116094997-011d9600-a676-11eb-9666-3a9d1bf8ea78.png">
 
-<img width="1022" alt="image" src="https://user-images.githubusercontent.com/38410965/116095309-493cb880-a676-11eb-8a61-8caa196a36b8.png">
+<img width="1025" alt="image" src="https://user-images.githubusercontent.com/38410965/116095479-75f0d000-a676-11eb-8b17-bee38b6c06c4.png">
+
+#
+
+> I spent the next few hours watching this fellow, Frank Derpke, demo his development on CoreML, CreateML and Vision.  
+
+https://developer.apple.com/videos/play/wwdc2018/717/
+
+<img width="1041" alt="image" src="https://user-images.githubusercontent.com/38410965/116096831-98cfb400-a677-11eb-967a-fa217ce0bddf.png">
+
