@@ -1,6 +1,6 @@
-# CoreMLiPhoneApp
+# Core ML iPhone App finds and identifies objects
 
-TGIF project: A day to develop my first iPhone app that identifies objects
+TGIF project: A day to develop my first iPhone app. This one finds and boxes and then identifies objects of mine aronud the house.
 
 The demo video is here.  To hear sound, click on the video, or follow along with slides and transcript below the video.
 
