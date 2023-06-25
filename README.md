@@ -2,7 +2,11 @@
 
 TGIF project: A day to develop my first iPhone app. This one finds and boxes and then identifies objects of mine aronud the house.
 
-The demo video is here.  To hear sound, click on the video, or follow along with slides and transcript below the video.
+The demo video is here.  To hear sound, unmute on the video, or follow along with slides and transcript below the video.
+
+<video src="https://user-images.githubusercontent.com/38410965/111802199-1bf53180-88a4-11eb-97d2-886bbd716a3e.mov" autoplay controls loop muted style="max-width: 730px;">
+</video>
+
 
 ![demo](https://user-images.githubusercontent.com/38410965/111802199-1bf53180-88a4-11eb-97d2-886bbd716a3e.mov)
 
