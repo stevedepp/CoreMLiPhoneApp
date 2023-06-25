@@ -7,9 +7,6 @@ The demo video is here.  To hear sound, unmute on the video, or follow along wit
 <video src="https://user-images.githubusercontent.com/38410965/111802199-1bf53180-88a4-11eb-97d2-886bbd716a3e.mov" autoplay controls loop muted style="max-width: 730px;">
 </video>
 
-
-![demo](https://user-images.githubusercontent.com/38410965/111802199-1bf53180-88a4-11eb-97d2-886bbd716a3e.mov)
-
 #
 
 **Steve Depp**
